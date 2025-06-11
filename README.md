@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm CLANKAK/h1>
-<h3 align="center">I'm Clankak, a mobile developer. I enjoy building user-friendly and functional mobile apps, taking on new challenges with enthusiasm. I'm committed to delivering smooth, high-quality apps that meet both user and business needs.</h3>
+<h3 align="center">
+I'm Clankak, a software engineer passionate about building user-friendly and functional software. I enjoy taking on new challenges with enthusiasm and aim to create smooth, high-quality experiences that meet both user and business needs.
+</h3>
 
-🌱 I’m currently learning kotlin
 
 👨‍💻 All of my projects are available at [https://lahoucinechouker.site/](https://lahoucinechouker.site/)
 
