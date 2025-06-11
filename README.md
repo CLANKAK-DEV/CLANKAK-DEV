@@ -1,3 +1,22 @@
+<h1 align="center">Hi 👋, I'm CLANKAK/h1>
+<h3 align="center">I'm Clankak, a mobile developer. I enjoy building user-friendly and functional mobile apps, taking on new challenges with enthusiasm. I'm committed to delivering smooth, high-quality apps that meet both user and business needs.</h3>
+
+🌱 I’m currently learning kotlin
+
+👨‍💻 All of my projects are available at [https://lahoucinechouker.site/](https://lahoucinechouker.site/)
+
+📫 How to reach me choukerlahoucine@gmail.com
+
+⚡ Fun fact Consistency creates lasting success.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/lahoucine-chouker-128734290
+
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lahoucine chouker" height="30" width="40" /></a>
+<a href="https://discord.com/users/849728728154112030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CLANKAK" height="30" width="40" /></a>
+</p>
+
 ### Languages and Tools:
 
 <p align="left">
