@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CLANKAK/h1>
+<h1 align="center">Hi 👋, I'm CLANKAK</h1>
 <h3 align="center">
 I'm Clankak, a software engineer passionate about building user-friendly and functional software. I enjoy taking on new challenges with enthusiasm and aim to create smooth, high-quality experiences that meet both user and business needs.
 </h3>
