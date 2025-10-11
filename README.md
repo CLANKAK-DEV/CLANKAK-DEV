@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm LAHOUCINE CHOUKER</h1>
-<h3 align="center">I'm Lahoucine Chouker, a mobile developer with 2 years of experience and a passion for Android development. I thrive on new challenges and am ready to turn your mobile app vision into reality!</h3>
+<h1 align="center">Hi 👋, I'm CLANKAK </h1>
+<h3 align="center">I'm CLANKAKr, a mobile developer with 2 years of experience and a passion for Android development. I thrive on new challenges and am ready to turn your mobile app vision into reality!</h3>
 
 - / [TaxiFly](https://play.google.com/store/apps/details?id=com.myapp.taximeter)
 
@@ -7,7 +7,7 @@
 
 - / [EduQuick](https://yoool-apk.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://lahoucinechouker.site/](https://lahoucinechouker.site/)
+- 👨‍💻 All of my projects are available at https://www.clankak.online/
 
 - 📫 How to reach me **choukerlahoucine@gmail.com**
 
