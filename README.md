@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm CLANKAK </h1>
 <h3 align="center">I'm CLANKAKr, a mobile developer with 2 years of experience and a passion for Android development. I thrive on new challenges and am ready to turn your mobile app vision into reality!</h3>
 
-- / [TaxiFly](https://play.google.com/store/apps/details?id=com.myapp.taximeter)
 
-- / [MyKult](https://play.google.com/store/apps/details?id=com.mykult.app)
-
-- / [EduQuick](https://yoool-apk.vercel.app/)
 
 - 👨‍💻 All of my projects are available at https://www.clankak.online/
 
