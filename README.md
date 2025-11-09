@@ -4,7 +4,7 @@
 ---
 
 ### 💬 To connect with me :
-- 📧 Gmail: [clankak.dev@gmail.com](mailto:clankak.dev@gmail.com)
+- 📧 Gmail: [choukerlahoucine@gmail.com](mailto:choukerlahoucine@gmail.com)
 - 🌐 Portfolio: [www.clankak.online](https://www.clankak.online)
 - 🎮 Play Store: [Clankak Apps](https://play.google.com/store/apps/dev?id=7405588784547757509)
 
