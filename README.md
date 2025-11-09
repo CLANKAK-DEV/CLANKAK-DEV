@@ -1,20 +1,104 @@
-<h1 align="center">Hi 👋, I'm CLANKAK </h1>
-<h3 align="center">I'm CLANKAKr, a mobile developer with 2 years of experience and a passion for Android development. I thrive on new challenges and am ready to turn your mobile app vision into reality!</h3>
+<h1 align="center">Hi there 👋, I'm Clankak</h1>
+<h3 align="center">🚀 Mobile Software Architect | Android & Flutter Developer</h3>
 
+---
 
+### 💬 To connect with me :
+- 📧 Gmail: [clankak.dev@gmail.com](mailto:clankak.dev@gmail.com)
+- 🌐 Portfolio: [www.clankak.online](https://www.clankak.online)
+- 🎮 Play Store: [Clankak Apps](https://play.google.com/store/apps/dev?id=7405588784547757509)
 
-- 👨‍💻 All of my projects are available at https://www.clankak.online/
-
-- 📫 How to reach me **choukerlahoucine@gmail.com**
-
-- ⚡ Fun fact **Consistency creates lasting success.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/clankak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="clankak" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lahoucine chouker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lahoucine chouker" height="30" width="40" /></a>
-<a href="https://discord.gg/CLANKAK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CLANKAK" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://play.google.com/store/apps/dev?id=7405588784547757509" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="160" alt="Google Play Store" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
+
+### 🧠 Languages and Tools :
+
+#### 📱 Mobile Development
+- Android  
+- Kotlin  
+- Flutter  
+- Dart  
+- Jetpack Compose  
+- XML  
+
+#### 🌐 Web Development
+- HTML5  
+- CSS3  
+- JavaScript  
+- PHP  
+- Bootstrap  
+
+#### 🗄️ Database & Backend
+- MySQL  
+- SQLite  
+- Firebase  
+- Supabase  
+- Room  
+
+#### 🧰 Tools & DevOps
+- Git  
+- GitHub  
+- Figma  
+- Python  
+- CI/CD  
+
+#### 🧩 Concepts
+- Architecture Patterns: MVC · MVP · MVVM  
+- Dependency Injection: Hilt · Dagger  
+- Coroutines  
+- GetX & Bloc (Flutter)  
+- DataBinding · ViewBinding  
+- Clean Architecture · TDD  
+- SOLID Principles  
+- OOP · Algorithms & Data Structures  
+- UI/UX Design  
+- Kotlin Multiplatform  
+
+---
+
+### 🧠 Tech Stack Icons
+
+<p align="center">
+<a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" height="45" alt="Android" /></a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="Kotlin" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45" alt="Flutter" /></a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" height="45" alt="Dart" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase" /></a>
+<a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="45" height="45" alt="Supabase" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" /></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma" /></a>
+</p>
+
+---
+
+### 🏅 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/CLANKAK-DEV">
+    <img src="https://github-readme-stats.vercel.app/api?username=CLANKAK-DEV&show_icons=true&hide=issues,contribs&count_private=true&title_color=00c8ff&text_color=ffffff&icon_color=00c8ff&bg_color=0d1117&hide_border=true&show_icons=true" alt="CLANKAK-DEV's GitHub stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CLANKAK-DEV">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CLANKAK-DEV&langs_count=10&title_color=00c8ff&text_color=ffffff&bg_color=0d1117&hide_border=true&layout=compact" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
+### 🚫 Don't Support Me  
+`-_-`
+
+<br/>
+
+<p align="center">
+  © <b>Clankak [2020]</b>. All rights reserved.
+</p>
