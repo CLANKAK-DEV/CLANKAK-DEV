@@ -24,7 +24,8 @@
 - Flutter  
 - Dart  
 - Jetpack Compose  
-- XML  
+- XML
+- Kotlin Multiplatform
 
 #### 🌐 Web Development
 - HTML5  
@@ -57,7 +58,7 @@
 - SOLID Principles  
 - OOP · Algorithms & Data Structures  
 - UI/UX Design  
-- Kotlin Multiplatform  
+   
 
 ---
 
