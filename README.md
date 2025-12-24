@@ -25,7 +25,7 @@
 - Dart  
 - Jetpack Compose  
 - XML
-- Kotlin Multiplatform
+
 
 #### 🌐 Web Development
 - HTML5  
