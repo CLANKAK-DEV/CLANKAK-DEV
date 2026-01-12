@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Clankak</h1>
-<h3 align="center">🚀 Mobile Software Architect | Android & Flutter Developer</h3>
+<h3 align="center"> Mobile Software Architect | Android & Flutter Developer</h3>
 
 ---
 
@@ -79,27 +79,10 @@
 
 ---
 
-### 🏅 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/CLANKAK-DEV">
-    <img src="https://github-readme-stats.vercel.app/api?username=CLANKAK-DEV&show_icons=true&hide=issues,contribs&count_private=true&title_color=00c8ff&text_color=ffffff&icon_color=00c8ff&bg_color=0d1117&hide_border=true&show_icons=true" alt="CLANKAK-DEV's GitHub stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/CLANKAK-DEV">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CLANKAK-DEV&langs_count=10&title_color=00c8ff&text_color=ffffff&bg_color=0d1117&hide_border=true&layout=compact" alt="Top Languages" />
-  </a>
-</p>
-
----
-
-### 🚫 Don't Support Me  
-`-_-`
 
 <br/>
 
 <p align="center">
-  © <b>Clankak [2020]</b>. All rights reserved.
+  © <b>Clankak [2026]</b>. All rights reserved.
 </p>
