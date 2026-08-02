@@ -20,12 +20,12 @@
 
 <!-- Stats + Top Languages side by side -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CLANKAK-DEV&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=8B949E&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CLANKAK-DEV&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=1F2937&bg_color=FFFFFF" alt="GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=CLANKAK-DEV&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=8B949E&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=CLANKAK-DEV&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=1F2937&bg_color=FFFFFF" alt="GitHub Stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CLANKAK-DEV&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=8B949E&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CLANKAK-DEV&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=1F2937&bg_color=FFFFFF" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=CLANKAK-DEV&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=8B949E&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=CLANKAK-DEV&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=1F2937&bg_color=FFFFFF" alt="Top Languages" />
 </picture>
 
 </div>
