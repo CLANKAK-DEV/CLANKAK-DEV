@@ -1,3 +1,11 @@
+<!-- ===== ANIMATED AVATAR ===== -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/CLANKAK-DEV/CLANKAK-DEV/main/avatar-animated.svg" width="280" alt="CLANKAK" />
+</div>
+
+<br/>
+
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
 
 <picture>
