@@ -1,4 +1,4 @@
-<!-- ===== TERMINAL PORTRAIT BANNER ===== -->
+<!-- ===== ANIMATED PIXEL PORTRAIT BANNER ===== -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CLANKAK-DEV/CLANKAK-DEV/main/dark.svg">
