@@ -1,0 +1,89 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#22D3EE"/>
+      <stop offset="50%" style="stop-color:#A78BFA"/>
+      <stop offset="100%" style="stop-color:#10B981"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#22D3EE;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:#A78BFA;stop-opacity:0.05"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect width="1200" height="320" rx="12"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="320" fill="#0D1117"/>
+    <rect x="800" y="-50" width="500" height="420" fill="url(#glow)" rx="200"/>
+
+    <rect width="1200" height="38" fill="#161B22"/>
+    <circle cx="22" cy="19" r="6" fill="#FF5F56"/>
+    <circle cx="42" cy="19" r="6" fill="#FFBD2E"/>
+    <circle cx="62" cy="19" r="6" fill="#27C93F"/>
+    <text x="600" y="24" text-anchor="middle" fill="#8B949E" font-family="monospace" font-size="13">clankak@dev ~ ./profile.sh --live</text>
+
+    <rect y="38" width="1200" height="2" fill="url(#grad)">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
+    </rect>
+
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="0.25s" fill="freeze"/>
+      <text x="30" y="78" fill="#8B949E" font-family="monospace" font-size="14">user@clankak</text>
+      <text x="148" y="78" fill="#22D3EE" font-family="monospace" font-size="14">:</text>
+      <text x="158" y="78" fill="#A78BFA" font-family="monospace" font-size="14">~</text>
+      <text x="170" y="78" fill="#E6EDF3" font-family="monospace" font-size="14">$ cat about.md</text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="0.55s" fill="freeze"/>
+      <text x="30" y="122" fill="#E6EDF3" font-family="monospace" font-size="38" font-weight="bold">CLANKAK</text>
+      <text x="318" y="122" fill="#22D3EE" font-family="monospace" font-size="38" font-weight="bold">.</text>
+      <text x="340" y="122" fill="#A78BFA" font-family="monospace" font-size="38" font-weight="bold">DEV</text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="0.85s" fill="freeze"/>
+      <text x="30" y="160" fill="#A78BFA" font-family="monospace" font-size="17">Mobile Software Architect</text>
+      <text x="340" y="160" fill="#484F58" font-family="monospace" font-size="17"> | </text>
+      <text x="370" y="160" fill="#A78BFA" font-family="monospace" font-size="17">Android &amp; Flutter Developer</text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="1.15s" fill="freeze"/>
+      <text x="30" y="202" fill="#10B981" font-family="monospace" font-size="14">&#9654; Building user-friendly &amp; functional mobile software</text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="1.40s" fill="freeze"/>
+      <text x="30" y="232" fill="#10B981" font-family="monospace" font-size="14">&#9654; Kotlin  &#183;  Flutter  &#183;  Jetpack Compose  &#183;  Clean Architecture</text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="1.65s" fill="freeze"/>
+      <text x="30" y="262" fill="#10B981" font-family="monospace" font-size="14">&#9654; SOLID  &#183;  TDD  &#183;  MVVM  &#183;  Firebase  &#183;  Supabase</text>
+    </g>
+
+    <rect x="30" y="280" width="10" height="16" fill="#22D3EE">
+      <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+    </rect>
+
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="0.4" dur="0.8s" begin="1.8s" fill="freeze"/>
+      <circle cx="1060" cy="160" r="90" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.3">
+        <animate attributeName="r" values="90;95;90" dur="4s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1060" cy="160" r="65" fill="none" stroke="#A78BFA" stroke-width="0.6" opacity="0.2">
+        <animate attributeName="r" values="65;60;65" dur="5s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1060" cy="160" r="40" fill="none" stroke="#10B981" stroke-width="0.5" opacity="0.15">
+        <animate attributeName="r" values="40;45;40" dur="3.5s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <rect y="318" width="1200" height="2" fill="url(#grad)">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
