@@ -12,7 +12,6 @@
 <rect x="10" y="24" width="636.5" height="1.5" fill="url(#lg)" rx="1">
 <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
 </rect>
-<text x="20" y="47" fill="#334155" font-family="monospace" font-size="8" opacity="0.6">VISUAL.MAP</text>
 <rect x="17" y="52" width="184.5" height="227.0" fill="none" stroke="#22D3EE" stroke-width="0.5" opacity="0.3" rx="2"/>
 <rect x="96.5" y="73.7" width="1.5" height="1.5" fill="#22D3EE" rx="0.3"><animate attributeName="opacity" from="0" to="0.12" dur="0.4s" begin="0.44s" fill="freeze"/></rect>
 <rect x="98.2" y="73.7" width="1.5" height="1.5" fill="#22D3EE" rx="0.3"><animate attributeName="opacity" from="0" to="0.40" dur="0.4s" begin="0.44s" fill="freeze"/></rect>
