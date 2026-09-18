@@ -12,7 +12,6 @@
 <rect x="10" y="24" width="636.5" height="1.5" fill="url(#lg)" rx="1">
 <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
 </rect>
-<rect x="17" y="52" width="184.5" height="227.0" fill="none" stroke="#22D3EE" stroke-width="0.5" opacity="0.3" rx="2"/>
 <rect x="96.5" y="73.7" width="1.5" height="1.5" fill="#22D3EE" rx="0.3"><animate attributeName="opacity" from="0" to="0.12" dur="0.4s" begin="0.44s" fill="freeze"/></rect>
 <rect x="98.2" y="73.7" width="1.5" height="1.5" fill="#22D3EE" rx="0.3"><animate attributeName="opacity" from="0" to="0.40" dur="0.4s" begin="0.44s" fill="freeze"/></rect>
 <rect x="99.9" y="73.7" width="1.5" height="1.5" fill="#22D3EE" rx="0.3"><animate attributeName="opacity" from="0" to="0.39" dur="0.4s" begin="0.44s" fill="freeze"/></rect>
@@ -3140,9 +3139,4 @@
 <text x="361.5" y="276" fill="#22D3EE" font-family="monospace" font-size="7.5">clankak</text>
 <text x="216.5" y="289" fill="#334155" font-family="monospace" font-size="7.5">Grid.GitHub</text>
 <text x="361.5" y="289" fill="#22D3EE" font-family="monospace" font-size="7.5">@CLANKAK-DEV</text>
-<text x="20" y="320" fill="#334155" font-family="monospace" font-size="7">SCAN</text>
-<rect x="50" y="314" width="148.5" height="5" rx="2" fill="#334155" opacity="0.2"/>
-<rect x="50" y="314" width="0" height="5" rx="2" fill="#22D3EE"><animate attributeName="width" from="0" to="148.5" dur="2.5s" begin="0.3s" fill="freeze"/></rect>
-<text x="204.5" y="320" fill="#4ADE80" font-family="monospace" font-size="7">COMPLETE</text>
-<text x="328.25" y="333" text-anchor="middle" fill="#334155" font-family="monospace" font-size="7" opacity="0.4">scan complete / more projects below</text>
 </svg>
