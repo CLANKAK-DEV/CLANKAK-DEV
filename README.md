@@ -58,28 +58,58 @@
 
 <div align="center">
 <h3>Tech Stack</h3>
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
 </div>
+
+#### `Mobile`
+
+![Flutter](https://img.shields.io/badge/Flutter-161B22?style=flat&logo=flutter&logoColor=02569B)
+![Dart](https://img.shields.io/badge/Dart-161B22?style=flat&logo=dart&logoColor=0175C2)
+![Kotlin](https://img.shields.io/badge/Kotlin-161B22?style=flat&logo=kotlin&logoColor=7F52FF)
+![Java](https://img.shields.io/badge/Java-161B22?style=flat&logo=openjdk&logoColor=ED8B00)
+![Android](https://img.shields.io/badge/Android-161B22?style=flat&logo=android&logoColor=3DDC84)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-161B22?style=flat&logo=jetpackcompose&logoColor=4285F4)
+![XML](https://img.shields.io/badge/XML-161B22?style=flat&logo=code&logoColor=E34F26)
+![Android Studio](https://img.shields.io/badge/Android_Studio-161B22?style=flat&logo=androidstudio&logoColor=3DDC84)
+![Room](https://img.shields.io/badge/Room-161B22?style=flat&logo=android&logoColor=10B981)
+
+#### `Web`
+
+![HTML](https://img.shields.io/badge/HTML-161B22?style=flat&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-161B22?style=flat&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB)
+
+#### `Backend & DB`
+
+![Python](https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB)
+![Firebase](https://img.shields.io/badge/Firebase-161B22?style=flat&logo=firebase&logoColor=FFCA28)
+![Supabase](https://img.shields.io/badge/Supabase-161B22?style=flat&logo=supabase&logoColor=3FCF8E)
+![MySQL](https://img.shields.io/badge/MySQL-161B22?style=flat&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-161B22?style=flat&logo=sqlite&logoColor=003B57)
+![REST APIs](https://img.shields.io/badge/REST_APIs-161B22?style=flat&logo=fastapi&logoColor=009688)
+![API Integration](https://img.shields.io/badge/API_Integration-161B22?style=flat&logo=postman&logoColor=FF6C37)
+
+#### `Tools`
+
+![Git](https://img.shields.io/badge/Git-161B22?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat&logo=github&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-161B22?style=flat&logo=githubactions&logoColor=2088FF)
+![Figma](https://img.shields.io/badge/Figma-161B22?style=flat&logo=figma&logoColor=F24E1E)
+![VS Code](https://img.shields.io/badge/VS_Code-161B22?style=flat&logo=visualstudiocode&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-161B22?style=flat&logo=postman&logoColor=FF6C37)
+
+#### `Concepts`
+
+![OOP](https://img.shields.io/badge/OOP-161B22?style=flat&logo=code&logoColor=22D3EE)
+![MVVM](https://img.shields.io/badge/MVVM-161B22?style=flat&logo=code&logoColor=22D3EE)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-161B22?style=flat&logo=code&logoColor=22D3EE)
+![SOLID](https://img.shields.io/badge/SOLID-161B22?style=flat&logo=code&logoColor=22D3EE)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-161B22?style=flat&logo=code&logoColor=22D3EE)
+![TDD](https://img.shields.io/badge/TDD-161B22?style=flat&logo=code&logoColor=22D3EE)
+![Hilt · Dagger](https://img.shields.io/badge/Hilt_·_Dagger-161B22?style=flat&logo=code&logoColor=22D3EE)
+![Coroutines](https://img.shields.io/badge/Coroutines-161B22?style=flat&logo=code&logoColor=22D3EE)
+![GetX · Bloc](https://img.shields.io/badge/GetX_·_Bloc-161B22?style=flat&logo=code&logoColor=22D3EE)
 
 ---
 
